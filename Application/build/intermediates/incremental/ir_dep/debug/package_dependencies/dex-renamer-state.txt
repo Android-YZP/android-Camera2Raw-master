@@ -1,0 +1,4 @@
+#Tue Jul 16 14:11:33 CST 2019
+base.0=C\:\\android-Camera2Raw-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
